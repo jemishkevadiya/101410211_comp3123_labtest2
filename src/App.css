@@ -1,0 +1,16 @@
+.app {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: linear-gradient(to bottom right, #333333, #ffffff);
+}
+
+.weather-container {
+  width: 90%;
+  max-width: 1200px;
+  padding: 30px;
+  border-radius: 20px;
+  background: #888888;
+  box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.5);
+}
