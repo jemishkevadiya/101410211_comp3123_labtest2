@@ -14,13 +14,13 @@ A sleek and responsive weather application built with React.js, allowing users t
 
 ## ScreenShots
 - Home Screen: 
-![Home Screen](src/assets/Screenshot%202024-11-28%20at%206.29.11 PM.png)
+![Home Screen](src/assets/homeScreen.png)
 
 - San Fransisco's weather:
-![San Fransisco's weather](src/assets/Screenshot 2024-11-28 at 6.31.58 PM.png)
+![San Fransisco's weather](src/assets/SanFransisco.png)
 
 - Dubai's weather:
-![Dubai's weather](src/assets/Screenshot 2024-11-28 at 6.32.26 PM.png)
+![Dubai's weather](src/assets/Dubai.png)
 
 - Abu Dhabi's weather:
-![Abu Dhabi's weathe](src/assets/Screenshot 2024-11-28 at 6.37.08 PM.png)
+![Abu Dhabi's weathe](src/assets/AbuDhabi.png)
